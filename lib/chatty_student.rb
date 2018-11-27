@@ -1,4 +1,6 @@
 
 def hello
+  super
   
+end
   
