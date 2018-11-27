@@ -1,5 +1,5 @@
 
-def hello
+def hello < student
   super
   
 end
